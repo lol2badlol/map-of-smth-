@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Imola 1994",
+    "lat": 44.3439,
+    "lng": 11.7167,
+    "description": "Fatal crash at Tamburello corner during San Marino GP.",
+    "year": 1994
+  },
+  {
+    "title": "Spa 1985",
+    "lat": 50.4372,
+    "lng": 5.9714,
+    "description": "High-speed spin in wet conditions during qualifying.",
+    "year": 1985
+  }
+]
